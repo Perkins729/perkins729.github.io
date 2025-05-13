@@ -27,8 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, I’m Yunshen Wang. I am currently a Master’s student at Beijing University of Posts and Telecommunications (BUPT), advised by [Prof. Honggang Zhang](https://scholar.google.com/citations?hl=zh-CN&user=j55tWpwAAAAJ). I am also a research intern at General Vision Lab in BIGAI (Beijing Institute for General Artificial Intelligence) as a research intern advised by [Dr. Siyuan Huang](https://siyuanhuang.com/). I received my Bachelor’s degree from BUPT.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I was a research intern at [MARS Lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/), where I worked with [Prof. Hang Zhao](https://hangzhaomit.github.io/). I have also held internship positions at [XREAL](https://www.xreal.cn/beam/), [NIO](https://www.nio.cn/), and [Galaxea AI](https://galaxea-ai.com/cn).
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
+
+<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
