@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: false #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -31,6 +31,9 @@ latest_posts:
 Hi, I’m Yunshen Wang. I am currently a Master’s student at Beijing University of Posts and Telecommunications (BUPT), advised by [Prof. Honggang Zhang](https://scholar.google.com/citations?hl=zh-CN&user=j55tWpwAAAAJ). I am also a research intern at General Vision Lab in BIGAI (Beijing Institute for General Artificial Intelligence) as a research intern advised by [Dr. Siyuan Huang](https://siyuanhuang.com/). I received my Bachelor’s degree from BUPT.
 
 Previously, I was a research intern at [MARS Lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/), where I worked with [Prof. Hang Zhao](https://hangzhaomit.github.io/). I have also held internship positions at [XREAL](https://www.xreal.cn/beam/), [NIO](https://www.nio.cn/), and [Galaxea AI](https://galaxea-ai.com/cn).
+
+
+My research interests lie at the intersection of Generative Models and Robotics. Specifically, I focus on leveraging generative models for perception, decision-making, planning, and control in robotic systems.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
