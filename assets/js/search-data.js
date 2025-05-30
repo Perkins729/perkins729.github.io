@@ -384,16 +384,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-concluded-my-internship-at-mars-lab-thanks-to-dr-yicheng-liu-and-prof-hang-zhao-for-their-supportive-and-fantastic-guidance",
+          title: 'I concluded my internship at MARS Lab, thanks to Dr. Yicheng Liu and...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-joined-the-general-vision-lab-at-bigai-beijing-institute-for-general-artificial-intelligence-as-a-research-intern-advised-by-dr-siyuan-huang-focusing-on-embodied-ai-and-humanoid-robots",
+          title: 'I joined the General Vision Lab at BIGAI (Beijing Institute for General Artificial...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-diffusion-based-generative-models-for-3d-occupancy-prediction-in-autonomous-driving-has-been-accepted-at-icra-2025-see-you-in-atlanta",
+          title: 'Our paper “Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving” has...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
