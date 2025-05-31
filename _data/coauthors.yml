@@ -37,18 +37,17 @@
   - firstname: ["Yicheng"]
     url: https://mrmoore98.github.io/liuyicheng/
 
+  - firstname: ["Tengyu"]
+    url: https://tengyu.ai/
+
 "zhao":
   - firstname: ["Hang"]
     url: https://hangzhaomit.github.io/
 
 "mao":
   - firstname: ["Yucheng"]
-  - url: https://myc634.github.io/yuchengmao/
+    url: https://myc634.github.io/yuchengmao/
 
 "huang":
   - firstname: ["Siyuan"]
-  - url: https://siyuanhuang.com/
-
-"liu":
-  - firstname: ["Tengyu"]
-  - url: https://tengyu.ai/
+    url: https://siyuanhuang.com/
