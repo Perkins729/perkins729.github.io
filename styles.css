@@ -257,6 +257,14 @@ p {
   display: block;
 }
 
+.work-card video {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+  background: #000;
+}
+
 .work-card div {
   padding: 0.9rem;
 }
