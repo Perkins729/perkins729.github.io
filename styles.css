@@ -277,6 +277,11 @@ p {
   background: #0b0d10;
 }
 
+.work-card-video .work-media video {
+  transform: scale(1.08);
+  transform-origin: center center;
+}
+
 .work-card div {
   padding: 0.9rem;
 }
