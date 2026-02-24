@@ -253,7 +253,8 @@ p {
 .work-media {
   width: 100%;
   height: 180px;
-  background: #0f1115;
+  padding: 8px;
+  background: #0b0d10;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -262,8 +263,9 @@ p {
 .work-card img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   display: block;
+  background: #0b0d10;
 }
 
 .work-card video {
@@ -271,12 +273,6 @@ p {
   height: 100%;
   object-fit: contain;
   display: block;
-  background: #000;
-  transform: scale(0.84);
-  transform-origin: center center;
-}
-
-.work-card-video .work-media {
   background: #0b0d10;
 }
 
