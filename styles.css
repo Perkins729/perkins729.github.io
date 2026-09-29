@@ -323,6 +323,25 @@ h3 {
   flex-direction: column;
 }
 
+.work-card-featured {
+  grid-column: 1 / -1;
+}
+
+.work-card-featured .work-media {
+  aspect-ratio: 16 / 9;
+  background: #161616;
+}
+
+.work-card-featured .work-media video {
+  object-fit: contain;
+  transform: none;
+}
+
+.work-card .contribution {
+  color: var(--accent);
+  font-weight: 500;
+}
+
 .work-card:hover {
   border-color: var(--line-strong);
 }
